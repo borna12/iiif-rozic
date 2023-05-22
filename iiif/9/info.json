@@ -1,0 +1,23 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 1, 2 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 4433,
+    "height" : 7500
+  }, {
+    "width" : 6650,
+    "height" : 11250
+  }, {
+    "width" : 13300,
+    "height" : 22500
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 13300,
+  "@id" : "https://borna12.github.io/iiif-rozic/iiif/9",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 22500
+}
